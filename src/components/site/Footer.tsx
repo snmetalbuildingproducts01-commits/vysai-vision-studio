@@ -11,7 +11,7 @@ export function Footer() {
           width={920}
           height={380}
           loading="lazy"
-          className="h-9 w-auto"
+          className="h-12 w-auto"
         />
 
         <nav className="flex flex-wrap items-center gap-x-6 gap-y-2 text-[13px] font-medium text-ink-soft lg:justify-center">

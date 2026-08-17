@@ -27,7 +27,7 @@ export function Hero() {
             alt="Vysai Digital Media"
             width={920}
             height={380}
-            className="mb-6 h-20 w-auto sm:h-24"
+            className="mb-6 h-28 w-auto sm:h-32"
           />
           <h1 className="font-display text-4xl font-extrabold leading-[1.05] tracking-[-0.03em] text-white sm:text-5xl lg:text-[3.4rem]">
             Explore Our{" "}
