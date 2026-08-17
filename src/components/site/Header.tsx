@@ -33,7 +33,7 @@ export function Header() {
             alt="Vysai Digital Media"
             width={920}
             height={380}
-            className="h-9 w-auto sm:h-10"
+            className="h-12 w-auto sm:h-14"
           />
         </a>
 
@@ -83,7 +83,7 @@ export function Header() {
             className="fixed inset-0 z-50 bg-background lg:hidden"
           >
             <div className="flex h-[68px] items-center justify-between border-b border-border px-5">
-              <img src={logo.url} alt="Vysai Digital Media" className="h-9 w-auto" />
+              <img src={logo.url} alt="Vysai Digital Media" className="h-12 w-auto" />
               <button
                 aria-label="Close menu"
                 onClick={() => setOpen(false)}
